@@ -24,7 +24,7 @@ import { RouterOutlet, Router, NavigationCancel, NavigationEnd, RouterLink } fro
 })
 export class AppComponent {
 
-    title = 'Pincel - Angular 17';
+    title = 'Pincel-Angular-17';
     routerSubscription: any;
     location: any;
 
